@@ -64,9 +64,11 @@ hr{
   height:700px;
   opacity: 0.6;
   transition: 0.3s;
+  box-shadow: 0px 0px 5px 3px black;
 }
 .link-banner:hover{
   opacity: 1;
+  box-shadow: 0px 0px 5px 3px white;
 }
 .link-img{
   overflow: hidden;
