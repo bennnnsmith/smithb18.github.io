@@ -63,6 +63,7 @@ hr{
   margin: 1%;
   height:700px;
   opacity: 0.6;
+  transition: 0.3s;
 }
 .link-banner:hover{
   opacity: 1;
