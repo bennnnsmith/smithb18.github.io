@@ -57,6 +57,9 @@ hr{
 .grid-container *{
     box-sizing: border-box;
 }
+.link-banner{
+  background-color: white;
+}
 
 
 .container{
