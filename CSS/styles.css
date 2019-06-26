@@ -166,7 +166,7 @@ hr{
 .navbar {
   overflow: hidden;
   background-color: #333;
-  font-family: Arial;
+  color:#f55959;
 }
 
 /* Links inside the navbar */
