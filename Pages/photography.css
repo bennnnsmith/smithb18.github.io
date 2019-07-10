@@ -3,3 +3,19 @@
   background-image: url(https://smithb18.github.io/img/photography/1300-1-8.jpg);
   background-size: cover;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
