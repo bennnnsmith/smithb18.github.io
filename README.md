@@ -13,10 +13,6 @@ The website serves at a portfolio of my current and past experiences as a Softwa
   <li><h3>CCTS T-Folio</h3></li>
   <li><h3>CCTS Transition Systemic Framework 2.0</h3></li>
 <ul/>
- 
-<h1>Passion Projects</h1>
-<ul>
-  <li><h3>Dark Weather - Snow Tracking Application</h3></li>
+<hr/>
   
-</ul>
-
+<h1>Tools + Technologies </h1>
