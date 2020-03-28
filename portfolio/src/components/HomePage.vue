@@ -1,5 +1,9 @@
 <template>
-  <div>HOMEPAGE</div>
+  <div class="page-height">
+    <div>
+      >>> Home Page 
+    </div>
+  </div>
 </template>
 
 <script>

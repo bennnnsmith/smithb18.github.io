@@ -1,8 +1,11 @@
 <template>
-  <div class="">
+<nav class="navbar navbar-expand-lg nav-color">
+  <div class="navbar navbar navbar-expand-md">
       NAV BAR
 
   </div>
+</nav>
+
 
 </template>
 
@@ -13,5 +16,9 @@ export default {
 </script>
 
 <style>
+  .nav-color{
+    background-color: #282829;
+    color:white;
+  }
 
 </style>
