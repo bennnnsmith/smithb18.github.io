@@ -15,6 +15,15 @@ import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
+  data(){
+    return {
+      images: {
+        background: require('./assets/images/background.jpg'),
+        profile: require('./assets/images/ben-profile.jpg')
+      }
+    }
+
+  },
   components: {
     NavBar,
     HomePage,

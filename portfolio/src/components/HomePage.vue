@@ -1,6 +1,6 @@
 <template>
-  <div class="page-height">
-
+  <div class="page-height" >
+    
     <div class="container">
 
       <div class="row-fluid">
